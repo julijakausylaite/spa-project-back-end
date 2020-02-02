@@ -1,0 +1,43 @@
+7 fonts:
+PlayfairDisplay-Regular
+Roboto-Light
+Roboto-Medium
+Roboto-Regular
+Rufina-Bold
+Rufina-Regular
+
+HTML:
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto:300,400,500|Rufina:400,700&display=swap" rel="stylesheet">
+
+CSS:
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rufina', serif;
+
+
+Colors:
+background: #ffffff
+Texts: black #000000 gray #888888 purple ##ff817e white #ffffff h1 #1e2528
+buttons: #ff817e
+procedures, blog buttons: #30383b, hover: #ff817e
+body-treatment background: #eb7a77
+Quote, appointment, footer background: #fff9f8
+Quote dot: light: #ffc3c2 active: #ff817e
+
+
+Font awesome icons:
+facebook <i class="fab fa-facebook-f"></i>
+twitter <i class="fab fa-twitter"></i>
+google+ <i class="fab fa-google-plus-g"></i>
+instagram <i class="fab fa-instagram"></i>
+calendar <i class="far fa-calendar-alt"></i>
+clock <i class="far fa-clock"></i>
+video play <i class="fas fa-play"></i>
+arrow <i class="fas fa-arrow-right"></i>
+circle <i class="fas fa-circle"></i>
+quote <i class="fas fa-quote-right"></i>
+map <i class="fas fa-map-marked-alt"></i>
+email <i class="far fa-envelope"></i>
+mobile <i class="fas fa-mobile-alt"></i>
+vimeo <i class="fab fa-vimeo-v"></i>
+ 
